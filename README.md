@@ -1,1 +1,1 @@
-0x00.shell, basics
+this is my first readme file 
